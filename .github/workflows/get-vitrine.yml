@@ -12,8 +12,7 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v2
 
-    - name: Get all projects create during the Challenge Oracle ONE Iniciante em Programação Jogo da Forca
-      uses: gautamkrishnar/blog-post-workflow@master
+    - name: Get all projects create during the Challenge Oracle ONE Iniciante em Programação
       with:
         comment_tag_name: CHANNEL_PROJECTS
         max_post_count: 100000
