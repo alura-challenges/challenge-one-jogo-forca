@@ -1,9 +1,10 @@
 # Alura Challenge | Oracle One | Lógica de Programação - Jogo da Forca
-### Seja bem vindo ao projeto base do Jogo da forca! Passos fundamentais:
 
 <p align="center" >
      <img width="600" heigth="600" src="https://user-images.githubusercontent.com/91544872/153612382-4951b67e-6077-4409-8fe3-86e484f42fee.png">
 </p>
+
+### Seja bem vindo ao projeto base do Jogo da forca! Passos fundamentais:
 
 #### Marque esse projeto com uma estrela ⭐
 #### Siga as instruções das aulas e conteúdos 📚
