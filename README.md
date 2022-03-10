@@ -24,7 +24,7 @@
 
 
 Vá na aba "Sobre" ou "About" do seu projeto no menu lateral que fica na esquerda dentro do repositório no GitHub
-Adicione a tag "**challengeonejogoforca** ou **challengeonejogoforca2** dependendo de a qual turma você pertence "
+Adicione a tag "**challengeonejogoforca**" ou "**challengeonejogoforca2**" dependendo de qual turma você pertence.
 
 ![gif-vitrine](https://user-images.githubusercontent.com/91544872/153601047-62aee6cb-e3cf-42b3-92c3-7130c996113f.gif)
 
