@@ -1,7 +1,7 @@
 # Alura Challenge | Oracle One | Lógica de Programação - Jogo da Forca
 
 <p align="center" >
-     <img width="600" heigth="600" src="https://user-images.githubusercontent.com/91544872/153612382-4951b67e-6077-4409-8fe3-86e484f42fee.png">
+     <img width="600" heigth="600" src="https://user-images.githubusercontent.com/91544872/157672417-06cf942b-5385-413f-bf22-782332157bff.png">
 </p>
 
 ### Seja bem vindo ao projeto base do Jogo da forca! Passos fundamentais:
