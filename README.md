@@ -17,8 +17,10 @@
 1) Publique o projeto no GitHub
 2) Publica no GitHub Pages: [Como publicar meu projeto com GitHub Pages?](https://docs.github.com/pt/pages/getting-started-with-github-pages/creating-a-github-pages-site) 
 3) Utilize o tópico:
-Turma 1: **challengeonejogoforca**
-Turma2: **challengeonejogoforca2**
+
+    - Turma 1: **challengeonejogoforca**
+     
+    - Turma2: **challengeonejogoforca2**
 
 
 Vá na aba "Sobre" ou "About" do seu projeto no menu lateral que fica na esquerda dentro do repositório no GitHub
