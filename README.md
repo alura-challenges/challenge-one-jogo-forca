@@ -1,4 +1,4 @@
-# Alura Challenge | Oracle One | Lógica de Programação - Jogo da Forca
+# Challenge ONE | Lógica de Programação - Jogo da Forca
 
 <p align="center" >
      <img width="600" heigth="600" src="https://user-images.githubusercontent.com/91544872/157672417-06cf942b-5385-413f-bf22-782332157bff.png">
